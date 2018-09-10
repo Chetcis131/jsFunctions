@@ -1,0 +1,4 @@
+//This is the best I could come up with and cannot figure out how to remove the brackets in the results
+
+const num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+console.log(num.map((x) => Math.pow(x, 2)));
